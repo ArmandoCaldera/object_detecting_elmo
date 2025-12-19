@@ -2,7 +2,7 @@
 
 An autonomous rover built as **two parallel subsystems**:
 
-- **Raspberry Pi 4**: real-time object detection (OpenCV DNN) + plays an associated audio clip when supported objects are detected.
+- **Raspberry Pi 4**: real-time object detection (OpenCV DNN) + plays an associated audio clip (ELMO voiceline) when supported objects are detected.
 - **TM4C123 (Tiva C LaunchPad)**: motor control + ultrasonic obstacle avoidance + OLED status display.
 
 > The subsystems run independently (UART was planned but not completed). 
@@ -80,8 +80,8 @@ An autonomous rover built as **two parallel subsystems**:
 
 ---
 
-## Video Demonstration
-Link 1: 
-Link 2:
+## Video Demonstration:
+Clip 1 [00:19]: https://youtube.com/shorts/MlB6wst_93M  \
+Clip 2 [00:41]: https://youtu.be/d14usDj3cW0
 
 ---
