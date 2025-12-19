@@ -29,10 +29,10 @@ An autonomous rover built as **two parallel subsystems**:
   - if still blocked, perform turn-left pulses until clear
 
 ### Block Diagram:
-(images/ECE425_block_diagram_final_project.png)
+![Block Diagram](images/ECE425_block_diagram_final_project.png)
 
-### State Diagram
-(images/ECE425_state_diagram_final_project.png)
+### State Diagram:
+![State Diagram](images/ECE425_state_diagram_final_project.png)
 
 
 ---
