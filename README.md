@@ -1,6 +1,6 @@
 # Object Detecting Autonomous RC Car (ECE 425 Final Project)
 
-##Introduction
+## Introduction
 
 An autonomous rover built as **two parallel subsystems**:
 
