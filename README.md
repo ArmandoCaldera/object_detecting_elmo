@@ -1,10 +1,14 @@
 # Object Detecting Autonomous RC Car
 
-### ECE 425 Final Project
-### Instructor: Aaron Nanas
-### Author: Armando Caldera
-### CSU Northridge
-### Department of Electrical and Computer Engineering
+**ECE 425 Final Project**
+
+**Instructor: Aaron Nanas**
+
+**Author: Armando Caldera** 
+
+**CSU Northridge**
+
+**Department of Electrical and Computer Engineering**
 
 ## Introduction
 
