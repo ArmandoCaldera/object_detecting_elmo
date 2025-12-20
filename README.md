@@ -1,4 +1,10 @@
-# Object Detecting Autonomous RC Car (ECE 425 Final Project)
+# Object Detecting Autonomous RC Car
+
+### ECE 425 Final Project
+### Instructor: Aaron Nanas
+### Author: Armando Caldera
+### CSU Northridge
+### Department of Electrical and Computer Engineering
 
 ## Introduction
 
@@ -7,7 +13,7 @@ An autonomous rover built as **two parallel subsystems**:
 - **Raspberry Pi 4**: real-time object detection (OpenCV DNN) + plays an associated audio clip (ELMO voiceline) when supported objects are detected.
 - **TM4C123 (Tiva C LaunchPad)**: motor control + ultrasonic obstacle avoidance + OLED status display.
 
-> The subsystems run independently (UART was planned but not completed). 
+> The subsystems run concurrently and independently (UART was planned but not completed). 
 
 ---
 
