@@ -12,6 +12,8 @@
 
 ## Introduction
 
+The objective of this project is to design and implement an autonomous rover capable of navigating its environment while simultaneously performing real-time object detection. By combining low-level embedded motor control with high-level computer vision processing, this project demonstrates the integration of multiple embedded platforms to solve a complex, real-world problem. \
+\
 An autonomous rover built as **two parallel subsystems**:
 
 - **Raspberry Pi 4**: real-time object detection (OpenCV DNN) + plays an associated audio clip (ELMO voiceline) when supported objects are detected.
